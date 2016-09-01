@@ -14,7 +14,7 @@
 
 * [ ] It's `true` that I own this book (boolean)
 
-
+-
 
 * [ ] Using whichever notation, add a property "inStores" and assign it the value `false`
 
