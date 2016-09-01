@@ -1,7 +1,7 @@
 
 #Self Assessment (Objects)
 
-** We have defined an object variable `myBook` for you, which has 4 properties **
+**We have defined an object variable `myBook` for you, which has 4 properties**
 
 
  Using whichever notation you choose (bracket or dot notation), change each value of `myBook` to reflect the following:
