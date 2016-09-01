@@ -14,11 +14,9 @@
 ## Grading Outline
 
 
-Debugging & Testing: 
+Arrays Assessment :
 
-Anonymous Functions:
-
-Functions within Functions:
+Objects Assessment :
 
 
 ## Self-Grading Process
