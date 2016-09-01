@@ -4,7 +4,7 @@
 
 * [ ] create a new variable `lastWord` and assign it the last value of the array (access the last value of the array; DO NOT look at what the word truly is).
 
-* [ ] log the length of the array using the `.length` method
+* [ ] log the length of the array
 
 * [ ] log the 22nd value of the array
 
