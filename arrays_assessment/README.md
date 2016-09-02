@@ -25,3 +25,4 @@ an
 example.
 
 ````
+* [ ] `push` the value "Goodbye" to `myArray`
