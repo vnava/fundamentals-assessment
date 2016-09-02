@@ -6,6 +6,16 @@ var myBook = {
 }
 
 //YOUR CODE HERE
+myBook.title = "My Autobiography"
+myBook.cover = "paperback"
+myBook.320 = "number of pages"
+if ("myBook") {
+	console.log(myBook === true);
+}
+else 
+	console.log(myBook.inStores === false);
+	}
+
 
 
 
@@ -21,4 +31,4 @@ var myBook = {
 //YOUR CODE ENDS HERE
 
 //Uncomment code below to check if you have properly assigned the values.
-//console.log(myBook);
+console.log(myBook);
