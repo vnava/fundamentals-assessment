@@ -2,3 +2,14 @@ var myArray = [ 'I',  'am',  'currently',  'creating',  'your',  'self',  'asses
 
 //YOUR CODE HERE
 
+var lastword = myArray[myArray.length-1];
+console.log (myArray.length);
+console.log (myArray[22]);
+console.log (myArray[22]) = 'sentences';
+console.log (myArray[22]);
+
+for (var i=0; i < myArray.length; i++) {
+	console.log(myArray)
+
+}
+myArray.push('Goodbye');
